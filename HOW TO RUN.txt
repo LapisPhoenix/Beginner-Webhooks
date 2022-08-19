@@ -1,0 +1,9 @@
+HOW TO RUN APP...
+
+1. Run install.bat to install all dependence's (YOU NEED PYTHON 3.6 OR UP)
+
+2. Go into config.py and edit the contents.
+
+3. Go into embed.py and edit your webhook. (There is comments to help you)
+
+4. Run send.bat to send the webhook
